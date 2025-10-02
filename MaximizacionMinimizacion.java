@@ -31,6 +31,6 @@ public static void main(String[] args) {
         System.out.println("Valor del lado derecho: ");
         b[i] = sc.nextDouble();
         System.err.println("ssskhhjjgjjggjj");
-
+        System.out.println("jojooj")   
 }
 }
