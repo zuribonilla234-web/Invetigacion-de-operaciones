@@ -30,7 +30,10 @@ public static void main(String[] args) {
         }
         System.out.println("Valor del lado derecho: ");
         b[i] = sc.nextDouble();
-        System.err.println("ssskhhjjgjjggjj");
 
 }
+    //Construccion de tableo
+    int filas = m +1;
+    int cols = n + m + 1;
+    double [][] tab = new 
 }
